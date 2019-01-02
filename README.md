@@ -1,6 +1,8 @@
 # malshattabot
 
 # About
+This is a discord bot that delivers Icelandic sayings to discord
+
 A thread on reddit's /r/iceland inspired me to create a simple Icelandic discord bot, I already had an API service that delivers Icelandic sayings, called "málshættir" so I just found some premade code for a discord bot and tweaked it a little bit
 
 ## How to install
